@@ -1,4 +1,4 @@
-| 名称         | 描述     |
+| 项目         | 描述     |
 | ------------ | -------------- |
 | [demo](https://github.com/nova-front/demo) | 案例演示|
 | [low-code](https://github.com/nova-front/low-code) | 这是一个企业级的低代码平台项目，提供可视化表单设计器、组件库和配套工具，帮助开发者快速构建表单应用。|
